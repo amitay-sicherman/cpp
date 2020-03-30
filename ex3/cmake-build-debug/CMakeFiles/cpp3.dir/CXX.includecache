@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/asicherm/private/cpp3/HashMap.hpp
+iostream
+-
+list
+-
+vector
+-
+stdexcept
+-
+
+/cygdrive/c/Users/asicherm/private/cpp3/SpamDetector.cpp
+iostream
+-
+fstream
+-
+utility
+-
+vector
+-
+string
+-
+algorithm
+-
+HashMap.hpp
+/cygdrive/c/Users/asicherm/private/cpp3/HashMap.hpp
+

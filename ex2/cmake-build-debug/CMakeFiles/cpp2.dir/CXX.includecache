@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/asicherm/private/cpp2/Fractal.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+algorithm
+-
+boost/algorithm/string.hpp
+-
+Fractal.h
+/cygdrive/c/Users/asicherm/private/cpp2/Fractal.h
+
+/cygdrive/c/Users/asicherm/private/cpp2/Fractal.h
+vector
+-
+cmath
+/cygdrive/c/Users/asicherm/private/cpp2/cmath
+string
+-
+
+/cygdrive/c/Users/asicherm/private/cpp2/FractalDrawer.cpp
+iostream
+-
+cmath
+/cygdrive/c/Users/asicherm/private/cpp2/cmath
+vector
+-
+Fractal.h
+/cygdrive/c/Users/asicherm/private/cpp2/Fractal.h
+

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cpp_ex1" targetName="cpp_ex1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b80b654c-77f7-4b62-b6ed-bb8a00fef7fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ex1" />
+  </component>
+  <component name="ProjectId" id="1VLsrilhAuBlrRGlc54nZa5uNkg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asicherm\private\cpp_ex1\ex1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.plot_img">
+    <configuration name="cpp_ex1" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="C:\Users\asicherm\private\cpp_ex1\parameters\w1 C:\Users\asicherm\private\cpp_ex1\parameters\w2 C:\Users\asicherm\private\cpp_ex1\parameters\w3 C:\Users\asicherm\private\cpp_ex1\parameters\w4 C:\Users\asicherm\private\cpp_ex1\parameters\b1 C:\Users\asicherm\private\cpp_ex1\parameters\b2 C:\Users\asicherm\private\cpp_ex1\parameters\b3 C:\Users\asicherm\private\cpp_ex1\parameters\b4" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_ex1" TARGET_NAME="cpp_ex1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_ex1" RUN_TARGET_NAME="cpp_ex1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="plot_img" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_img.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.plot_img" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plot_img" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b80b654c-77f7-4b62-b6ed-bb8a00fef7fd" name="Default Changelist" comment="" />
+      <created>1577043909180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577043909180</updated>
+      <workItem from="1577043910392" duration="496000" />
+      <workItem from="1577044449047" duration="182000" />
+      <workItem from="1577128785520" duration="211000" />
+      <workItem from="1577129009941" duration="37000" />
+      <workItem from="1577129074574" duration="83000" />
+      <workItem from="1577129216196" duration="461000" />
+      <workItem from="1577181807222" duration="20944000" />
+      <workItem from="1577231160702" duration="650000" />
+      <workItem from="1577264889854" duration="4349000" />
+      <workItem from="1577606360922" duration="219000" />
+      <workItem from="1577606642502" duration="268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577129385190">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1577129385190" />
+    <state x="397" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577231293592">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="397" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1577231293592" />
+    <state x="361" y="0" key="#plot_img" timestamp="1577129578623">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#plot_img/0.0.1280.680@0.0.1280.680" timestamp="1577129578623" />
+    <state x="192" y="125" key="FileChooserDialogImpl" timestamp="1577606896807">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="192" y="125" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577606896807" />
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1577269246040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577269246040" />
+    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1577269246040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577269246040" />
+    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1577269246040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577269246040" />
+    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1577269246040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577269246040" />
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1577269246040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577269246040" />
+    <state width="1237" height="203" key="GridCell.Tab.1.center" timestamp="1577269246040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1577269246040" />
+    <state width="1237" height="203" key="GridCell.Tab.1.left" timestamp="1577269246040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1577269246040" />
+    <state width="1237" height="203" key="GridCell.Tab.1.right" timestamp="1577269246040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577269246040" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1577268710413">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577268710413" />
+    <state x="325" y="163" key="com.intellij.ide.util.TipDialog" timestamp="1577714488660">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="163" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577714488660" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577129154355">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1577129154355" />
+  </component>
+</project>
